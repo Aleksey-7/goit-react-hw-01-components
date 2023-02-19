@@ -3,6 +3,11 @@
   align-items: center;
 
   margin: 0 auto 15px auto;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #e9eef3;
+  box-shadow: 0px 0px 6px 5px rgb(75 49 192 / 50%);
+
 }
 
 .item:last-child {
@@ -35,6 +40,7 @@
   padding: 15px;
   margin-right: 20px;
   border: 1px solid #ccc;
+  border-radius: 5px;
 }
 
 .name {
